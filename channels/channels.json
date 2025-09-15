@@ -6,8 +6,8 @@
     {"name": "NHK BS", "url": "https://mt01.utako.moe/NHK_BS/index.m3u8"}
     {"name": "NHK G", "url": "https://mt01.utako.moe/NHK_G/index.m3u8"}
     {"name": "NHK E", "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"}
-    {"name": "中天新聞 CtiNews", "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"}
-    {"name": "寰宇新聞台 GlobalNews", "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"}
+    {"name": "CtiNews", "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"}
+    {"name": "GlobalNews", "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"}
     {"name": "TVBS Asia", "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"}
     {"name": "Taiwan Plus", "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/"}
     {"name": "Taiwan Plus", "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"}
